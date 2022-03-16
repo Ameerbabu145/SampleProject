@@ -1,1 +1,1 @@
-# SampleProject
+Echo "New day"
